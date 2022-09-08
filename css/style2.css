@@ -1,0 +1,19 @@
+#first {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+#second {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+#third {   
+     background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    bottom: 200px;
+}
+
